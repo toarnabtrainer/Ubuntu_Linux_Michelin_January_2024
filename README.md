@@ -2,7 +2,7 @@
 
 * **GitHub Link:** https://github.com/toarnabtrainer/Ubuntu_Linux_Merlin_January_2024 or https://tinyurl.com/4wk9mbuh
 * **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
-* **Ubuntu A/C:** **Username:** Arnab / **Password:** bigdata / **Superuser:** root
+* **Ubuntu A/C:** **Username:** Arnab / **Password:** bigdata / **Superuser:** root <br>
 
 * **Mock Test Links:**
   * **Test on Unix Shell Scripting (1):** https://bit.ly/3mig7YT-
