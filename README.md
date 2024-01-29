@@ -1,6 +1,6 @@
 # Ubuntu_Linux_Merlin_January_2024
 
-* **GitHub Link:** https://github.com/toarnabtrainer/Ubuntu_Linux_Merlin_January_2024 or https://tinyurl.com/4wk9mbuh
+* **GitHub Link:** https://github.com/toarnabtrainer/Ubuntu_Linux_Michelin_January_2024 or https://tinyurl.com/4wk9mbuh
 * **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
 * **Ubuntu A/C:** **Username:** Arnab / **Password:** bigdata / **Superuser:** root <br>
 
