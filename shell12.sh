@@ -25,7 +25,7 @@ if [ -e $fname ] ; then
 	if [ $x_perm = "x" ] ; then
 		echo "$fname is having EXECUTE Permission ON"
 	else
-		echo "$fname is having EXCUTE Permission OFF"
+		echo "$fname is having EXECUTE Permission OFF"
 	fi
 	elif [ -L $fname ] ; then  # shell12.sh /dev/fd
 		echo "$fname is a LINK Special file..."
