@@ -46,6 +46,12 @@ sed -n '3,$!p' emp1.lst
 sed -n -e '1,2p' -e '7,9p' -e '$p' emp.lst
 sed -n -e '1,2p' -e '7,9p' -e '$p' emp1.lst
 
+row_count=`cat emp.lst | wc -l`
+echo "row count = $row_count"
+start_row_count=`expr $row_count - 2`
+echo $start_row_count
+sed -n -e '1,3p' -e "$start_row_count,$ p" emp.lst
+
 # it is known as 'context addressing'
 # prints records matching with patterns
 sed -n '/director/p' emp.lst
