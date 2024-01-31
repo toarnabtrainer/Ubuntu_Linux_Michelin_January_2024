@@ -1,6 +1,6 @@
 # finding total and average salaries of emp.lst data file
 fname=$1
-emp_count=`cat $fname | wc -l`
+emp_count=`cat $fname | wc -l`  # word count, -l means line count
 total_salary=0
 max_salary=0
 min_salary=99999
